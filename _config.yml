@@ -1,2 +1,3 @@
 title: aquintise
-markdown: kramdown
+kramdown:
+  input: Kramdown
